@@ -1,0 +1,436 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Undefined",Las Estrellas (1080p)
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",María Visión Mexico (360p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",Monte Maria (1080p)
+https://616eee1852d6c.streamlock.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Monterrey (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://i.imgur.com/b6rNKeU.png" group-title="Undefined",TVP Los Mochis (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="Undefined",Multimedios Guadalajara (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Undefined",Televisa Guadalajara (1080p)
+https://linear-402.frequency.stream/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (480p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+
+#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="Undefined",Excélsior TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Movies",Filmex Clásico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filmex.mx" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Movies",Flixmex (Xumo) (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Undefined",Milenio Televisión (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCFxHplbcoJK9m70c4VyTIxg.m3u8
+
+#EXTINF:-1 tvg-id="Moovimex.mx" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FXHD" group-title="Claro-COL", FX HD
+http://190.131.228.59:8000/play/a0rk/index.m3u8
+
+#EXTINF:-1 tvg-id="FX" group-title="Claro-COL", FX
+http://190.131.228.59:8000/play/a04k/index.m3u8
+
+#EXTINF:-1 group-title="Bics", GOLDEN MULTIPLEX -1HR 
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", Lo Mejor de la Liga MX
+https://linear-452.frequency.stream/452/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", AZTECA SIETE
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", TELEMAX
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", MULTIMEDIOS GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", MARIA VISION
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO CA
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
+
+#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=796248387&_cdn_timestamp=1683979868&_cdn_token=b07be3a6c4b15ccf512ff60f6cdb80d68f7db143
+
+#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=796248659&_cdn_timestamp=1683979875&_cdn_token=36993769e3b0aaf88fe61bec673a683dd719fc22
+
+#EXTINF:-1  group-title="Bics Extra", ESPN USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=796249691&_cdn_timestamp=1683979907&_cdn_token=b77305583ed6ab5db4cc48342258b25c5399d892
+
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=796249939&_cdn_timestamp=1683979914&_cdn_token=b852314a442f7d5464cede300518a135b4f1757d
+
+#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=796250571&_cdn_timestamp=1683979934&_cdn_token=4deba79deefb99e95015655523af6c74eb2695fb
+
+#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=796251083&_cdn_timestamp=1683979952&_cdn_token=d08aa447cd64eb41d51547f36fe10a9501d4ec19
+
+#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=796251267&_cdn_timestamp=1683979958&_cdn_token=e3a88daac7acbbd999e2b7862c2f96c3d0f25cfd
+
+#EXTINF:-1 tvg-id="A&EMundo" group-title="Claro-COL", A&E Mundo
+http://190.131.228.59:8000/play/a05x/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" group-title="Claro-COL", AXN
+http://190.131.228.59:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 group-title="Claro-COL", Animal Planet
+http://190.131.228.59:8000/play/a0rz/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet" group-title="Claro-COL", Animal Planet
+http://190.131.228.59:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMALPLANETHD" group-title="Claro-COL", Animal Planet HD
+http://190.131.228.59:8000/play/a0rq/index.m3u8
+
+#EXTINF:-1 tvg-id="CRISTOVISION" group-title="Claro-COL", Cristovisiðn
+http://190.131.228.59:8000/play/a0qy/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOV" group-title="Claro-COL", Discovery Channel
+http://190.131.228.59:8000/play/a0qu/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSD" group-title="Claro-COL", Discovery Channel
+http://190.131.228.59:8000/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERYH&H" group-title="Claro-COL", Discovery H&H HD
+http://190.131.228.59:8000/play/a0re/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERYHD" group-title="Claro-COL", Discovery HD
+http://190.131.228.59:8000/play/a0j2/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVKIDS" group-title="Claro-COL", Discovery Kids
+http://190.131.228.59:8000/play/a0qt/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERKIDSHD" group-title="Claro-COL", Discovery Kids HD
+http://190.131.228.59:8000/play/a0rd/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsca" group-title="Claro-COL", Discovery Kids ca
+http://190.131.228.59:8000/play/a06y/index.m3u8
+
+#EXTINF:-1 tvg-id="THETHER" group-title="Claro-COL", Discovery Theater HD
+http://190.131.228.59:8000/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo" group-title="Claro-COL", Discovery Turbo
+http://190.131.228.59:8000/play/a04t/index.m3u8
+
+#EXTINF:-1 tvg-id="WORLD" group-title="Claro-COL", Discovery World HD
+http://190.131.228.59:8000/play/a0rn/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel" group-title="Claro-COL", Disney Channel
+http://190.131.228.59:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr" group-title="Claro-COL", Disney Jr
+http://190.131.228.59:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment" group-title="Claro-COL", E Entertainment
+http://190.131.228.59:8000/play/a05q/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSPORT1" group-title="Claro-COL", Fox Sports 1 HD
+http://190.131.228.59:8000/play/a0j3/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2" group-title="Claro-COL", Fox Sports 2
+http://190.131.228.59:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3" group-title="Claro-COL", Fox Sports 3
+
+#EXTINF:-1 tvg-id="HBO" group-title="Claro-COL", HBO
+http://190.131.228.59:8000/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2SD" group-title="Claro-COL", HBO 2
+http://190.131.228.59:8000/play/a08j/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" group-title="Claro-COL", HBO 2 HD
+http://190.131.228.59:8000/play/a0jh/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamilySD" group-title="Claro-COL", HBO Family
+http://190.131.228.59:8000/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFAMILYHD" group-title="Claro-COL", HBO Family HD
+http://190.131.228.59:8000/play/a0j5/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHD" group-title="Claro-COL", HBO HD
+http://190.131.228.59:8000/play/a0rp/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlus" group-title="Claro-COL", HBO Plus
+http://190.131.228.59:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXTREMESD" group-title="Claro-COL", HBO XTREME SD
+http://190.131.228.59:8000/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel" group-title="Claro-COL", History Channel
+http://190.131.228.59:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV" group-title="Claro-COL", MTV
+http://190.131.228.59:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" group-title="Claro-COL", Nat Geo
+http://190.131.228.59:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="NATGEO" group-title="Claro-COL", Nat Geo HD
+http://190.131.228.59:8000/play/a0j9/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr" group-title="Claro-COL", Nick Jr
+http://190.131.228.59:8000/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Claro-COL", Nickelodeon
+http://190.131.228.59:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="Claro-COL", Paramount HD
+http://190.131.228.59:8000/play/a0jf/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony" group-title="Claro-COL", Sony
+http://190.131.228.59:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="Space" group-title="Claro-COL", Space
+http://190.131.228.59:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="STUDIOSD" group-title="Claro-COL", Studio Universal
+http://190.131.228.59:8000/play/a0i0/index.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO" group-title="Claro-COL", Studio Universal HD
+http://190.131.228.59:8000/play/a0jg/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM" group-title="Claro-COL", TCM
+http://190.131.228.59:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC" group-title="Claro-COL", TLC
+http://190.131.228.59:8000/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a0r2/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal" group-title="Claro-COL", Universal
+http://190.131.228.59:8000/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner" group-title="Claro-COL", Warner
+http://190.131.228.59:8000/play/a05p/index.m3u8
+
+#EXTINF:-1 tvg-id="ZonaLatina" group-title="Claro-COL", Zona Latina
+http://190.131.228.59:8000/play/a043/index.m3u8
+
+#EXTINF:-1 group-title="Claro-COL", Telemundo
+http://190.60.39.62:8000/play/a02g
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", ANIMAL PLANET
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577882
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", ANIMAL PLNT +1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577906
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", CRIME INVESTIGATION
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577905
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577890
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY +1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577888
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY HISTORY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577887
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY SCIENCE
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577886
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DISCOVERY TURBO
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577885
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", DMAX
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577881
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", FOOD NETWORK
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577876
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", HISTORY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577904
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", HISTORY 2
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577903
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", INVESTIGATION DISCOVERY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577901
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", NAT GEO
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577909
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", NAT GEO WILD
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577910
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", PARAMOUNT
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577900
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SYFY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577898
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", AMC
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577360
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA ACTION
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577387
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA COMEDY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577385
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA CRIME
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DISNEY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577370
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DOCUMENTARIES
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577375
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA DRAMA
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577383
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA FAMILY
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577368
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA GREATS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577382
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA HITS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577381
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA OSCARS
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577380
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA PREMIER
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577379
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA SELECT
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577377
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SKY CINEMA THRILLER
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577376
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY ACTION
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577341
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY ACTION+1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577340
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY CHANNEL
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577339
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY CHANNEL+1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577338
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY MOVIES
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577334
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", SONY MOVIES+1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577333
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", TCM
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577361
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", BBC 1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", BBC 2
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
+
+#EXTINF:-1  group-title="CABLE KINGS IPTV", A&E
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=469345
+
